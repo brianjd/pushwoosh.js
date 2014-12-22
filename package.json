@@ -1,0 +1,26 @@
+{
+  "name": "PushWoosh.js",
+  "version": "0.0.1",
+  "description": "PushWoosh API Wrapper for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url":
+  },
+  "keywords": ["PushWoosh", "Push", "GCM"],
+  "author": "Brian Doyle <brian@tf83.com>",
+  "license": "MIT",
+  "bugs": {
+
+  },
+  "homepage": "",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "lodash": "^2.4.1",
+    "node-rest-client": "^1.4.3",
+    "q": "^1.1.2"
+  }
+}
