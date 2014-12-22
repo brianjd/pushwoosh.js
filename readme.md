@@ -1,4 +1,5 @@
-# PushWoosh.js - a wrapper for the PushWoosh REST API
+# PushWoosh.js
+##  a wrapper for the PushWoosh REST API
 
 **NOTE:** This is a WIP, not thoroughly tested.  
 
