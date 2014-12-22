@@ -5,7 +5,9 @@ Pushwoosh.js is a wrapper for the PushWoosh REST API
 
 ## Installation
 
+```sh
 $ npm install PushWoosh.js
+```
 
 ## Usage
 
