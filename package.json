@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url":
+    "url": https://github.com/brianjd/pushwoosh.js.git"
   },
   "keywords": ["PushWoosh", "Push", "GCM"],
-  "author": "Brian Doyle <brian@tf83.com>",
+  "author": "Brian Doyle",
   "license": "MIT",
   "bugs": {
-
+    "url": "https://github.com/brianjd/pushwoosh.js/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/brianjd/pushwoosh.js",
   "dependencies": {
     "chalk": "^0.5.1",
     "lodash": "^2.4.1",
