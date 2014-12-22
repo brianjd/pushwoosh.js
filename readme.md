@@ -8,13 +8,13 @@ $ npm install PushWoosh.js
 
 ## Usage
 
-'''javascript
+```javascript
 var PushWoosh = require('PushWoosh.js'),
 pushWoosh = new PushWoosh({
   auth: your_auth_key,
   application: your_application_id
 });
-'''
+```
 
 The methods available mirror that of the PushWoosh API, ie:
 
@@ -30,7 +30,7 @@ The methods available mirror that of the PushWoosh API, ie:
 
 See the [PushWoosh API documentation](https://www.pushwoosh.com/programming-push-notification/pushwoosh-push-notification-remote-api/) for more information.
 
-'''javascript
+```javascript
 pushWoosh.createMessage({
   // see PushWoosh API reference
 })
@@ -40,7 +40,7 @@ pushWoosh.createMessage({
 .fail(function (err) {
     // do something
 });
-'''
+```
 
 If you need to override the application ID or supply an application group instead, you can do so:
 
