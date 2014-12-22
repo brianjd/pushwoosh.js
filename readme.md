@@ -44,11 +44,11 @@ pushWoosh.createMessage({
 
 If you need to override the application ID or supply an application group instead, you can do so:
 
-'''javascript
+```javascript
 pushWoosh.createMessage({
     application: your_id_here,
     notifications: []
 }).then().fail();
-'''
+```
 
 More documentation to come.
